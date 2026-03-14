@@ -1,5 +1,13 @@
 # Statistical Modeling of Housing Prices
 
+<p align="center">
+  <img src="figures/pairs.png" width="700">
+</p>
+
+<p align="center">
+  <em>Exploratory analysis of relationships between housing price and predictor variables.</em>
+</p>
+
 This project investigates how structural, accessibility, and spatial characteristics influence housing prices using classical statistical modeling techniques.
 
 The analysis applies regression modeling, feature engineering, dimensionality reduction, and bootstrap inference to understand the factors that drive property values.
