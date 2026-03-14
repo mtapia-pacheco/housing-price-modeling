@@ -1,7 +1,7 @@
 # Statistical Modeling of Housing Prices
 
 <p align="center">
-  <img src="figures/pairs.png" width="700">
+  <img src="figures/pairs.png" width="500">
 </p>
 
 <p align="center">
